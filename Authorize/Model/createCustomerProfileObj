@@ -1,0 +1,12 @@
+{
+  "accountType": "businessChecking",
+  "routingNumber": "121042882",
+  "accountNumber": "123456789123",
+  "nameOnAccount": "Jane Doe",
+  "bankName": "Pandora Bank",
+  "merchantCustomerId": "123",
+  "description": "A customer with a lot of cash.",
+  "email": "completelyfake@dontemail.com",
+  "customerProfileId": "1234",
+  "customerType": "Business"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@yousufalvi/wizserver",
+  "version": "0.0.1",
+  "description": "Backend for remitWiz app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yousufAlvi@bitbucket.org/teamabidi/wizserver.git"
+  },
+  "author": "Yousuf",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/teamabidi/wizserver#readme",
+  "dependencies": {
+    "auth-net-cim": "^2.4.0",
+    "auth-net-request": "^2.2.4",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "xml2js": "^0.4.16"
+  }
+}
